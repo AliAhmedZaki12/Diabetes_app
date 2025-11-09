@@ -1,5 +1,5 @@
 # 🩺 Diabetes Risk Prediction Model 
-(https://diabetesapp-24aa.streamlit.app/)
+# App : (https://diabetesapp-24aa.streamlit.app/)
 
 A **Complete Machine Learning Pipeline** for Predicting Diabetes Risk
 
